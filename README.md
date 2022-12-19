@@ -2,7 +2,7 @@
 Facts
 - 16 years.
 - From Ukraine.
-- Speak in 3 languages
+- Speak on 3 languages
   - Russian
   - Ukrainian
   - English
