@@ -2,21 +2,25 @@
 Facts
 - 17 years.
 - From Eastern Ukraine.
-- Speak on 3 languages
+- Speak in 3 languages
   - Ukrainian
   - English
-  - Russian
+  - Swedish
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=youspinmerond&theme=dark&show_icons=true)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=youspinmerond&theme=dark&layout=compact&show_icons=true)
 
 # Stack
-- React+Redux
+- React
 - Next
+- Nest
 - TypeScript
 
 ## Soon
-- Nest
 - Vue
+
+## Something else
+- Zustand
+- Bit of Python
 
 [Check it out](https://portf-ten.vercel.app/)
